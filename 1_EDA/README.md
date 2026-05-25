@@ -26,7 +26,7 @@ Job market analysts need to answer questions like:
 
 - 💻 *What skills are most in-demand for data engineers?*
 
-- 💰 W*hat skills a have the highest paying salaries?*
+- 💰 *What skills a have the highest paying salaries?*
 
 - ⚖️ *What is the optimal skill set balancing demand and compensation?*
 
@@ -84,4 +84,4 @@ By building queries across these tables I was able to derive insights about skil
 - **Mathematical Functions**: `LN()` for natural logarithm transformation to normalize demand metrics
 - **Calculated Metrics**: Derived optimal score combining log-transformed demand with median salary
 - **HAVING Clause**: Filtering aggregated results (skills with >= 100 postings)
-- **NULL Handling**: Proper filtering of incomplete records (`salary_year_avg IS NOT NULL`)
+- **NULL Handling**: Proper filtering of incomplete records (`salary_year_avg IS NOT)
