@@ -5,7 +5,7 @@
 
 A SQL project analyzing the data engineer job market using real world
 job posting data. It demonstrates my ability to **write production-quality
-analytical SQL, design efficient queries, and turn business questions into
+analytical SQL, design efficient queries, and turn key questions into
 data-driven insights**.
 
 ## Executive Summary
