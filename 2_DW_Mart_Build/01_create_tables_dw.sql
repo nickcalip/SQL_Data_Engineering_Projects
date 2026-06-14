@@ -13,7 +13,7 @@ CREATE OR REPLACE TABLE company_dim (
 
 CREATE OR REPLACE TABLE skills_dim (
     skill_id INTEGER PRIMARY KEY,
-    skill   VARCHAR,
+    skills   VARCHAR,
     type VARCHAR
 );
 
